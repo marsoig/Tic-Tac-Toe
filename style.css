@@ -1,0 +1,14 @@
+.container {
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  display: grid;
+  grid-template-columns: repeat(3, 50px);
+  grid-template-rows: repeat(3, 50px);
+}
+.start-button {
+  text-align: center;
+  height: 100px;
+  line-height:100px;
+}
